@@ -26,7 +26,7 @@ Note that, we are using Callable such that when each of these methods get applie
 After each of the execution is completed, we collect the result from the future and add it to our List<ScanResult> which is subsequently sent back to the user.
 
 ## Class Diagram
-* ![AnalyzeStringExample](diagrams/Example1.png)
+ ![AnalyzeStringExample](diagrams/Example1.png)
 
 ### Test:
 ```
